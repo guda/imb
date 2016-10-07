@@ -1,0 +1,4 @@
+/* On load hide all content */
+.content{
+    display: none;
+}
